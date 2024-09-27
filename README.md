@@ -1,2 +1,2 @@
 # Amazon-UI-clone
-First Project 
+My first project.Built this amazon homepage UI clone using HTML & CSS.
